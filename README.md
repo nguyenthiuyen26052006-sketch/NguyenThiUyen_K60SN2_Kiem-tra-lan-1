@@ -7,7 +7,7 @@
    - [ ] d. Personal Home Page
 
 2. **Để xuất dòng văn bản ra màn hình trong PHP, bạn sử dụng hàm nào?**
-   - [x] **a. print()**
+   - [ ] **a. print()**
    - [x] **b. echo()**
    - [ ] c. write()
    - [ ] d. out()

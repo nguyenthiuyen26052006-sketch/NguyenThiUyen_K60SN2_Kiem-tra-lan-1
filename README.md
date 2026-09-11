@@ -26,6 +26,6 @@
 
 5. **Để kiểm tra xem một biến có phải là số nguyên hay không, bạn sử dụng hàm nào?**
    - [ ] a. is_number()
-   - [ ] **b. is_int()**
-   - [x] **c. is_integer()**
+   - [x] **b. is_int()**
+   - [ ] **c. is_integer()**
    - [ ] d. is_numeric()
